@@ -99,7 +99,7 @@ class WordSorter(object):
 	def main(self):
 		word_size = 'test'
 		bword = Word(worde = "moon")
-		tword = Word(worde = "goon")
+		tword = Word(worde = "goof")
 		print(self.direct_sub_test(bword, tword))
 
 		while isinstance(word_size, int) == False:
