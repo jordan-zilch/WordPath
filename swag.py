@@ -95,7 +95,7 @@ class WordSorter(object):
 		with open("C:\\Users\\Jordan\Documents\\Programming\\english_words.txt") as word_file:
 			self.english_words = set(word.strip().lower() for word in word_file)
 
-	#main func
+	#main func test
 	def main(self):
 		word_size = 'test'
 		bword = Word(worde = "moon")
