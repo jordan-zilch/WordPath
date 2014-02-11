@@ -19,14 +19,15 @@
 #RAIN > CRAB
 #DST fail
 #AAIN
-#
+#DST fail
+#BAIN
 
 #how it will work:
 #every word is an object that stores two things: the word itself and a set/list of 
 
 #MOON
 #WOON MOLN MOON MOOF
-#AOON
+#AOONs
 #BOON!
 #BOLN BOON BOOF
 import sys 
